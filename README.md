@@ -1,6 +1,4 @@
-# DOPatch
-DOPatch(distribution-optimized adversarial patch)
+# DOPatch (distribution-optimized adversarial patch)
+This repository contains the implementation code for the paper: Distributional Modeling for Location-Aware Adversarial Patches
 
-This repository contains the implement code for the paper: Distributional Modeling for Location-Aware Adversarial Patches
-
-the code will be released soon
+the code will be released
