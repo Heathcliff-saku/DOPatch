@@ -23,7 +23,6 @@ from load_face_models.load_face_model import load_reg_model, load_cls_model
 import random
 import os
 # from facenet_pytorch import MTCNN, InceptionResnetV1, fixed_image_standardization, training
-# facebank 改成LFW全体的
 
 def setup_seed(seed):
      torch.manual_seed(seed)
